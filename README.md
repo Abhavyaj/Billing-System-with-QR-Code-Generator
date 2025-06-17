@@ -42,7 +42,7 @@ python-billing-system/
 
 ---
 ## 📦 Installation & Setup
-###Clone the Repository
+### Clone the Repository
 
 - git clone https://github.com/Abhavyaj/Billing-System-with-QR-Code-Generator.git
 - cd Billing-System-With-QR-Code-Generator-main
